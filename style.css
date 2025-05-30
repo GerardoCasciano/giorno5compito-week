@@ -1,0 +1,157 @@
+body{
+width: 450px;
+height: 500px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+padding: 0;
+
+}
+
+header{
+    background-color: black;
+    width: 450px;
+   height: 150px;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 0;
+   
+}
+main{
+    width: 450px;
+    height: 500px;
+
+}  
+    
+#epicode{
+    width: 200px;
+    text-align: center;
+}
+.box{
+    height:400px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px white solid;
+    background-image: url(./Esercizio/images/banner.jpg);
+    background-size: contain;
+    font-size: large;
+  
+   
+   
+
+    
+}
+span>h1{
+    text-align: center;
+    color: rgb(97, 189, 242);
+    
+}
+
+#partiamo{
+    text-align: center;
+    color: white;
+    background-color: orangered;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#parte2>h1{
+    text-align: center;
+    color: rgb(97, 189, 242);
+}
+
+#parte3>h1{
+    text-align: center;
+    color: rgb(97, 189, 242);
+}
+p{
+    text-align: center;
+    font-size: 2vh;
+}
+.box2{
+     height:400px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px white solid;
+    background-image:url(./Esercizio/images/notebook.jpg);
+    border-radius: 200px;
+}
+
+#parte4>h1{
+    text-align: center;
+    color: rgb(97, 189, 242);
+}
+
+p{text-align: center;}
+
+#parte5>h1{
+    text-align: center;
+    color: rgb(97, 189, 242);
+}
+
+p{text-align: center;}
+
+#parte6{
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    height: 350px;
+    
+}
+.box3{
+     height:300px;
+    width: 448pxpx;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(5, 5, 5);
+    background-image: url(./Esercizio/images/foto1.jpg);
+    background-size:cover;
+    background-position-x: center;
+    
+}
+
+span{
+    text-align: center;
+    
+}
+.box4{
+    height:300px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(5, 5, 5);
+    background-image: url(./Esercizio/images/foto2.jpg);
+    background-size:cover;
+    background-position-x: center;
+
+}
+
+.box5{
+     height:300px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(5, 5, 5);
+    background-image: url(./Esercizio/images/foto3.jpg);
+    background-size:cover;
+    background-position-x: center;
+   
+
+}
+
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+#parte7{
+    background-color: aqua;
+    text-align: center;
+    color: white;
+    list-style: none
+}
+
+
